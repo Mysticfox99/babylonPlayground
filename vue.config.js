@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/babylonPlayground/"
+  publicPath: process.env.NODE_ENV === "production" ? "/babylonPlayground/" : "/",
 };
