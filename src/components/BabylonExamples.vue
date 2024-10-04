@@ -1,7 +1,4 @@
 <template>
-<div class = "Test">
-  <title>This is a test</title>
-</div>
 <div>
   <h3>Babylon Examples</h3>
   <canvas></canvas>
